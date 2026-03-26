@@ -13,13 +13,12 @@ I am a **Computer Engineering student** with a deep passion for building softwar
 - 🇪🇸 **Spanish:** Native.
 - 🇬🇧 **English:** Cambridge C1.
 
-### 🛠 Technical Skills
+---
 
-| Category | Tools & Languages |
-| :--- | :--- |
-| **Low Level & Systems** | ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) |
-| **General Purpose** | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
-| **Scripting & Games** | ![Lua](https://img.shields.io/badge/-Lua-000080?style=flat&logo=lua&logoColor=white) |
+### 🛠 Technical Skills
+I have experience working with the following programming languages:
+
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black) ![Lua](https://img.shields.io/badge/-Lua-000080?style=flat&logo=lua&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ---
 
