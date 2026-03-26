@@ -1,6 +1,6 @@
 # Hi there! I'm Ruddisender22 👋
 
-I am a **Computer Engineering student** with a deep passion for building software and bringing ideas to life. I thrive on creating, whether it's solving complex algorithmic problems or developing immersive digital experiences.
+I am a **Computer Engineering student** with a deep passion for building software and collaborative projects.
 
 ### 🎓 Education & Mindset
 - 📚 **Currently pursuing:** Bachelor's Degree in Computer Engineering (Grado en Ingeniería Informática).
@@ -8,6 +8,10 @@ I am a **Computer Engineering student** with a deep passion for building softwar
 - 🚀 **Focus:** Always looking for new challenges and collaborative projects to grow as a developer.
 
 ---
+
+### 🗺️ Languages
+- 🇪🇸 **Spanish:** Native.
+- 🇬🇧 **English:** Cambridge C1.
 
 ### 🛠 Technical Skills
 
@@ -26,10 +30,4 @@ Currently, I'm channeling my creativity into **developing my own games**. I enjo
 - 🎯 **Goal:** Mastering the balance between performance (C++/C) and rapid scripting (Lua/Python).
 
 ---
-
-### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YOUR-USER-HERE]&show_icons=true&theme=tokyonight)
-
----
-
-*"Turning logic into art, one project at a time."*
+*"Videogames are the purest form of art as them combine all of the areas."*
