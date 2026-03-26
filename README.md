@@ -30,8 +30,10 @@ I am a **Computer Engineering student** with a deep passion for building softwar
 ### 🕹️ Game Development
 Currently, I'm channeling my creativity into **developing my own games**. I enjoy exploring game mechanics, logic, and the technical architecture behind the scenes. 
 
-- 🛠️ **Working on:** Personal indie game projects.
-- 🎯 **Goal:** Mastering the balance between performance (C++/C) and rapid scripting (Lua/Python).
+- 🛠️ **Working on:** Not-announced roblox game.
 
 ---
-*"Videogames are the purest form of art as them combine all of the areas."*
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=599CFF&center=true&vCenter=true&width=435&lines=Never+Stop+Creating" alt="Typing SVG" />
+</p>
