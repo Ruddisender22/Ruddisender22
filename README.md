@@ -15,10 +15,15 @@ I am a **Computer Engineering student** with a deep passion for building softwar
 
 ---
 
-### 🛠 Technical Skills
-I have experience working with the following programming languages:
+### 🛠 Technical Stack
 
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black) ![Lua](https://img.shields.io/badge/-Lua-000080?style=flat&logo=lua&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+- **Algorithms & Projects:** ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+
+- **Machine Code & Low Level:** ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black) ![MIPS](https://img.shields.io/badge/-MIPS-000000?style=flat&logo=processor&logoColor=white)
+
+- **Game Development:** ![Lua](https://img.shields.io/badge/-Lua-000080?style=flat&logo=lua&logoColor=white)
+
+- **Mathematics & Analysis:** ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white) ![SageMath](https://img.shields.io/badge/-SageMath-6EBB49?style=flat&logo=sage&logoColor=white)
 
 ---
 
