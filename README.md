@@ -28,7 +28,7 @@ I am a **Computer Engineering student** with a deep passion for creative project
 ---
 
 ### 🕹️ Game Development
-I'm a solo developer working on an ambitious Roblox project. I manage everything from the logic and architecture to the game direction and art.
+I'm a solo developer working on a Roblox project. I manage everything from the logic and architecture to the game direction and art.
 
 - 🛠️ **Working on:** Not-announced roblox game.
 
