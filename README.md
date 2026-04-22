@@ -26,7 +26,8 @@ I am a **Computer Engineering student** with a deep passion for this discipline.
 
 ### 🕹️ Game Development
 I sometimes make games...
-- 🛠️ **In the works:** Currently developing 3 independent projects focused on [menciona un género, ej: mechanics/logic/optimization].
+
+Nothing to highlight rn. The water is calm, but the tide is rising.
 
 ---
 
@@ -37,9 +38,5 @@ I sometimes make games...
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ruddisender22&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ed3621&center=true&vCenter=true&width=435&lines=What+Difference+AI+From+Humans+Is+The+Mind" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ed3621&center=true&vCenter=true&width=600&lines=What+differentiates+humans+from+AI+is+the+heart" alt="Typing SVG" />
 </p>
