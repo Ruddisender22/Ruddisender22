@@ -2,6 +2,8 @@
 
 I am a **Computer Engineering student** with a deep passion for this discipline. I believe that the true difference between a functional product and a remarkable one lies in **deeply understanding every layer of the process.** As an engineer, I don't just write code; **I design solutions**.
 
+I also develop **open-source tools** designed to solve specific needs and optimize my personal workflow. I believe in sharing these solutions with the community—such as [Ruddis'-Tiny-Board](https://github.com/Ruddisender22/Tiny-Board)—so that anyone can use, learn from, or improve them.
+
 ---
 
 ### 🛠 Tech Stack
