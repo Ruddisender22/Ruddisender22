@@ -1,6 +1,6 @@
 # Hi there! I'm Ruddisender22 👋
 
-I am a **Computer Engineering student** with a deep passion for this discipline. I believe that the true difference between a finished product and a great one lies in **deeply understanding every layer of the process.** I don't just write code; **I design solutions**.
+I am a **Computer Engineering student** with a deep passion for this discipline. I believe that the true difference between a functional product and a remarkable one lies in **deeply understanding every layer of the process.** As an engineer, I don't just write code; **I design solutions**.
 
 ---
 
@@ -27,7 +27,7 @@ I am a **Computer Engineering student** with a deep passion for this discipline.
 ### 🕹️ Game Development
 I sometimes make games...
 
-Nothing to highlight rn. The water is calm, but the tide is rising.
+Nothing to highlight rn. The water is calm, but the tide is rising. ⏳
 
 ---
 
