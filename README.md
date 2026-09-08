@@ -1,17 +1,16 @@
-# Hi there! I'm Ruddisender22 👋
-
-I am a **Computer Engineering student** with a deep passion for this discipline. I believe that the true difference between a functional product and a remarkable one lies in **deeply understanding every layer of the process.** As an engineer, I don't just write code; **I design solutions**.
+# About me
+I am a **Computer Engineering student** with a deep passion for this discipline. Currently majoring at third grade. Open to work and to gain experience.
 
 ---
 
-### 📑 My Tools
-I develop **open-source tools** to solve specific needs and optimize my personal workflow. I believe in sharing these solutions with the community so that anyone can use, learn from, or improve them.
+### 📑 Tools I had made
+I had developed small programs that helped me and may help you:
 
 * **[Ruddis' Tiny Board](https://github.com/Ruddisender22/Tiny-Board)**: A minimalist whiteboard designed for quick task management and brainstorming.
 
 ---
 
-### 🛠 Tech Stack
+### 🛠 Experience
 
 **Core Programming & Algorithms**
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) 
@@ -21,6 +20,7 @@ I develop **open-source tools** to solve specific needs and optimize my personal
 **Low-Level & Systems**
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black) 
 ![MIPS](https://img.shields.io/badge/-MIPS-000000?style=flat&logo=processor&logoColor=white)
+![Bison]
 
 **Data Science & Mathematics**
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white) 
@@ -32,10 +32,7 @@ I develop **open-source tools** to solve specific needs and optimize my personal
 ---
 
 ### 🕹️ Game Development
-I sometimes make games...
-
-Nothing to highlight rn. The water is calm, but the tide is rising. ⏳
-
+Developing a pilot game with a friend of mine.
 ---
 
 ### 🗺️ Languages
@@ -43,7 +40,3 @@ Nothing to highlight rn. The water is calm, but the tide is rising. ⏳
 - 🇬🇧 **English:** Cambridge C1 Advanced.
 
 ---
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ed3621&center=true&vCenter=true&width=600&lines=What+differentiates+humans+from+AI+is+the+heart" alt="Typing SVG" />
-</p>
