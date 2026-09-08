@@ -20,7 +20,7 @@ I had developed small programs that helped me and may help you.
 **Low-Level & Systems**
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black) 
 ![MIPS](https://img.shields.io/badge/-MIPS-000000?style=flat&logo=processor&logoColor=white)
-![Bison]
+![Bison](https://img.shields.io/badge/-Bison-3776AB?style=flat&logo=bison&logoColor=grey)
 
 **Data Science & Mathematics**
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white) 
