@@ -3,8 +3,8 @@ I am a **Computer Engineering student** with a deep passion for this discipline.
 
 ---
 
-### 📑 Tools I had made
-I had developed small programs that helped me and may help you:
+### 📑 Tools I had made using AI
+I had developed small programs that helped me and may help you.
 
 * **[Ruddis' Tiny Board](https://github.com/Ruddisender22/Tiny-Board)**: A minimalist whiteboard designed for quick task management and brainstorming.
 
