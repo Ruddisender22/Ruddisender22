@@ -13,8 +13,7 @@ I had developed small programs that helped me and may help you.
 ---
 
 ### 🕹️ Game Development
-
-* **Indie Game Project (WIP)** — Currently developing a 2D game using **Godot** and **C#**.
+Currently developing a 2D game using **Godot** and **C#**.
 
 ---
 
