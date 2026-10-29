@@ -18,7 +18,7 @@ It's Alex! Third-year Computer Engineering student interested in software develo
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
 ![SageMath](https://img.shields.io/badge/-SageMath-6EBB49?style=flat&logo=sage&logoColor=white)
 
-## Are there any projects we can see?
+## Are there any projects you can see?
 I am currently developing small videogame projects both in Godot and Roblox.
 
 ## What can I speak?
